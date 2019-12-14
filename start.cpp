@@ -18,6 +18,8 @@ int main(){
 	Car* n =  d.createCar(nb);
 	j->info();
 	n->info();
+	
+	cout<<"New string";
 
 	return 1;
 }
