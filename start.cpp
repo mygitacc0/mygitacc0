@@ -22,7 +22,7 @@ int main(){
 	cout<<"New string";
         cout<<"Stop_impl";
         cout<<"Restart_impl";
-		cout<<"Reopen_impl";
+		cout<<"Reopen_impl_1";
 	return 1;
 }
 
