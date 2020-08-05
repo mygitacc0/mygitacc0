@@ -20,7 +20,8 @@ int main(){
 	n->info();
 	
 	cout<<"New string";
-
+        cout<<"Stop_impl";
+        cout<<"Restart_impl";
 	return 1;
 }
 
